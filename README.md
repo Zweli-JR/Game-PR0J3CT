@@ -1,2 +1,1 @@
-# Hangman-Project
-The hangman game
+# Window Forms App of the game hangman
